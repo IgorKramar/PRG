@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Архитектура/Паттерны/Singleton.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Какие шаблоны проектирования часто используются вместе с паттерном \\\"Одиночка\"?\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +148,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "37a15e489f68652d",
+  "active": "9ab8ea7e6b461a42",
   "lastOpenFiles": [
     "Архитектура/Паттерны/Создающие_паттерны.md",
     "README.md",
