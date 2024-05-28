@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Архитектура/Паттерны/Singleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Одиночка",
+                "query": "\"Какие шаблоны проектирования часто используются вместе с паттерном \\\"Одиночка\"?\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Архитектура/Паттерны/Singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Архитектура/Паттерны/Singleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Архитектура/Паттерны/Singleton.md"
               }
             }
           }
@@ -147,11 +148,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ab8ea7e6b461a42",
+  "active": "37a15e489f68652d",
   "lastOpenFiles": [
-    "Архитектура/Паттерны/Singleton.md",
     "Архитектура/Паттерны/Создающие_паттерны.md",
     "README.md",
+    "Архитектура/Паттерны/Singleton.md",
     "Архитектура/Паттерны/Структурные_паттерны.md",
     "Архитектура/Паттерны/Архитектурные_паттерны.md",
     "Архитектура/Паттерны",
