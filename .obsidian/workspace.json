@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "1feec5a4cfe5e635",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c752db76ffd474",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab8ea7e6b461a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Архитектура/Паттерны/Singleton.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97d45d62ccf874b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe540e4b635f892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ca0ab85e8f99c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37a15e489f68652d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Одиночка",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "408226d2563d3fb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80335b830fedd8af",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b5deaec2ea4909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8736f03ec03036af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Архитектура/Паттерны/Singleton.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30c8c1b089ac27ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Архитектура/Паттерны/Singleton.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c11341111755f6ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc138197555a1ca4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Архитектура/Паттерны/Singleton.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "9ab8ea7e6b461a42",
+  "lastOpenFiles": [
+    "Архитектура/Паттерны/Создающие_паттерны.md",
+    "README.md",
+    "Архитектура/Паттерны/Singleton.md",
+    "Архитектура/Паттерны/Структурные_паттерны.md",
+    "Архитектура/Паттерны/Архитектурные_паттерны.md",
+    "Архитектура/Паттерны",
+    "Архитектура",
+    "Архитектура/Паттерны/Конкурентные_паттерны.md",
+    "Архитектура/Паттерны/Поведенческие_паттерны.md",
+    "Создающие.md"
+  ]
+}
