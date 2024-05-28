@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура/Паттерны/Singleton.md",
-                "mode": "preview",
+                "file": "Архитектура/Архитектурные_стили/Микрофронтенды.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Архитектура/Паттерны/Singleton.md",
+                "file": "Архитектура/Архитектурные_стили/Микрофронтенды.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Архитектура/Паттерны/Singleton.md",
+                "file": "Архитектура/Архитектурные_стили/Микрофронтенды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Архитектура/Паттерны/Singleton.md"
+                "file": "Архитектура/Архитектурные_стили/Микрофронтенды.md"
               }
             }
           }
@@ -150,9 +149,11 @@
   },
   "active": "9ab8ea7e6b461a42",
   "lastOpenFiles": [
-    "Архитектура/Паттерны/Создающие_паттерны.md",
     "README.md",
+    "Архитектура/Архитектурные_стили/Микрофронтенды.md",
+    "Архитектура/Архитектурные_стили",
     "Архитектура/Паттерны/Singleton.md",
+    "Архитектура/Паттерны/Создающие_паттерны.md",
     "Архитектура/Паттерны/Структурные_паттерны.md",
     "Архитектура/Паттерны/Архитектурные_паттерны.md",
     "Архитектура/Паттерны",
